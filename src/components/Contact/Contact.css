@@ -1,0 +1,30 @@
+.Contact{
+    padding: 10px;
+}
+
+.formControl{
+    margin: 7%;
+}
+
+.formControl input {
+    border: none;
+    border-bottom: 1px solid #333;
+    font-size: 15px;
+    outline: none;
+}
+
+.formControl input:focus{
+    border-bottom: 1px solid rgb(19, 161, 26);
+}
+
+.formControl textarea {
+    padding: 15px;
+    font-size: 13px;
+    width: 52.5%;
+    height: 60px;
+    outline: none;
+}
+
+.formControl textarea:focus{
+    border: 1px solid rgb(19, 161, 26);
+}

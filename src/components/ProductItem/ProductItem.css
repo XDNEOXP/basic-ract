@@ -1,0 +1,9 @@
+.ProductItem{
+    opacity: 0;
+    transition-duration: 1s;
+    transition-delay: 0s;
+}
+
+.visible{
+    opacity: 1;
+}

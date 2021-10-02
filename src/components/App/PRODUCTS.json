@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "name": "Xiaomi",
+        "price": "2000",
+        "img": "1.jpg"
+    },
+
+    {
+        "id": "2",
+        "name": "Samsung",
+        "price": "3000",
+        "img": "2.jpg"
+    },
+
+    {
+        "id": "3",
+        "name": "Iphone",
+        "price": "5000",
+        "img": "3.jpg"
+    },
+
+    {
+        "id": "4",
+        "name": "Nokia",
+        "price": "2500",
+        "img": "4.jpg"
+    }
+]

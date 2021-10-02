@@ -1,0 +1,13 @@
+h3{
+    border-top: 1px solid rgb(155, 151, 151);
+    border-bottom: 1px solid rgb(155, 151, 151);
+    padding: 7px;
+}
+
+.Cart{
+    display: flex;
+    position: absolute;
+    right: 5%;
+    top: 2%;
+    font-size: 20px;
+}

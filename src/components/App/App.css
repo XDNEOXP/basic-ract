@@ -1,0 +1,48 @@
+.App {
+  text-align: left;
+  padding: 10px;
+}
+
+.header{
+  font-size: 20px;
+}
+
+p{
+  font-size: 14px;
+}
+
+.products {
+  list-style: none;
+  margin: 0;
+  display: flex;
+  padding: 0;
+  flex-wrap: wrap;
+}
+
+.products li {
+  margin: 10px;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  padding: 2px;
+  transition: 0.3s ease-out;
+}
+
+.products li h4 {
+  padding: 0px;
+  margin: 10px;
+}
+.products li img {
+  width: 80%;
+  height: 50%;
+}
+.products li span { 
+  padding: 10px;
+  height: 20px;
+  width: 100%;
+}
+
+a{
+  text-decoration: none;
+  color: #333;
+}
